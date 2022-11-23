@@ -1,1 +1,1 @@
-This is git folder readme
+This is the updated git project readme
